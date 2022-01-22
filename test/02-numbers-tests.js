@@ -99,3 +99,8 @@ describe('02-numbers-tasks', () => {
     assert.equal(tasks.toNumber(undefined, -1), -1);
   });
 });
+
+
+ /*const cos = (x1 * y1 + x2 * y2) / (Math.sqrt((x1 ** 2 + x2 ** 2))
+  * Math.sqrt((y1 ** 2 + y2 ** 2)));
+  return cos; */
